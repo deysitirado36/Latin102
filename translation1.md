@@ -18,7 +18,7 @@ Tempore certo, venit centaurus cum fratribus ad nuptias. Hercules interuenit et 
 > - Deianira, Deianirae (f)
 > - Accusative, sg, fem
 - Identify the form abesset, and explain why it is this tense and mood. 
-> - 3rd, sg, imperfect, active, subjunctive
+> - 3rd, sg, imperfect/pluperfect, active, subjunctive
 > - Focused on the circumstance not time
 > - Same time as the main verb
 - Identify the form uenisset, and explain why it is this tense and mood.
