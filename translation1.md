@@ -18,7 +18,7 @@ Tempore certo, venit centaurus cum fratribus ad nuptias. Hercules interuenit et 
 > - Deianira, Deianirae (f)
 > - Accusative, sg, fem
 - Identify the form abesset, and explain why it is this tense and mood. 
-> - 3rd, sg, imperfect, active subjunctive, Temporal clause, because Hercules being away was an on going thing
+> - 3rd, sg, imperfect, active, subjunctive, Temporal clause, because Hercules being away was an on going thing
 - Identify the form uenisset, and explain why it is this tense and mood.
 > - 3rd, sg, pluperfect, active, subjunctive, Temporal clause, because the action is prior to the main verb
 - Identify the form pollicitus est. What dictionary form would you look under to find this verb?
