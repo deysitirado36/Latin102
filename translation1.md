@@ -49,6 +49,6 @@ Deianiram *abduxit*.
 
 3. Translation
 
-When Hercules had come into the court of King Dexamenus and violated his daughter Deianira, he wished her as a wife. When Hercules went away, cenraur Eurytion asked Deianira to be his wife. Since her father feared the centaur, he promised that he would give his daughter in marriage. 
+When Hercules had come into the court of King Dexamenus and violated his daughter Deianira, he wished her as a wife. When Hercules went away, cenraur Eurytion requested Deianira as a wife. Since her father feared the centaur, he promised that he would give his daughter in marriage. 
 
 At a settled time, he came with his brothers to the wedding. Hercules interupted and killed the centaur, and led Deianira away.
