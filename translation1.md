@@ -12,10 +12,19 @@ Tempore certo, venit centaurus cum fratribus ad nuptias. Hercules interuenit et 
 2. Grammatical questions
 
 - Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.
+> - Dexamenus, Dexameni (m)
+> - Accusative, sg, mas
 - Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram.
+> - Deianira, Deianirae (f)
+> - Accusative, sg, fem
 - Identify the form abesset, and explain why it is this tense and mood. 
-> 3rd, sg, imperfect, active subjunctive, Temporal clause, because he wasn't away 
+> - 3rd, sg, imperfect, active subjunctive, Temporal clause, because Hercules being away was an on going thing
 - Identify the form uenisset, and explain why it is this tense and mood.
-> 3rd, sg, pluperfect, active, subjunctive, Temporal clause, because
+> - 3rd, sg, pluperfect, active, subjunctive, Temporal clause, because the action is prior to the main verb
 - Identify the form pollicitus est. What dictionary form would you look under to find this verb?
+> - 3rd, sg, perfect, passive, indicative, 
 - Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
+> - Ablative, sg, neuter, becuase it is ablative of time when
+
+3. 
+
