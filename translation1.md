@@ -1,4 +1,7 @@
-1. Grammatical Analysis
+**Needs one minor revision**
+**Excellent work!**
+
+1. Grammatical Analysis 👍 *Very nice!*
 
 > Hercules cum in hospitium ad Dexamenum regem *uenisset*
 
@@ -42,13 +45,13 @@ Deianiram *abduxit*.
 > - Action is prior to the main verb
 - Identify the form pollicitus est. What dictionary form would you look under to find this verb?
 > - 3rd, sg, perfect, passive, indicative
-> - Deponent verbs
+> - Deponent verbs ❌ *What dictionary form would you look under*
 - Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
 > - Ablative, sg, neuter
 > - Ablative of time when
 
 3. Translation
 
-When Hercules had come to the court of King Dexamenus and violated his daughter Deianira, he wished her as a wife. When Hercules went away, cenraur Eurytion requested Deianira as a wife. Since her father feared the centaur, he promised that he would give his daughter in marriage. 
+When Hercules had come to the court of King Dexamenus and violated his daughter Deianira, he wished her as a wife. When Hercules went🤔 (*absum* == "be absent") away, centaur Eurytion requested Deianira as a wife. Since her father feared the centaur, he promised that he would give his daughter in marriage. 
 
 At a settled time, he came with his brothers to the wedding. Hercules interupted and killed the centaur, and led Deianira away.
