@@ -5,23 +5,18 @@ Your first sentence should use a temporal clause to express that when Hercules c
 > Cum Hercules Oechalia veniisset, Iolen uxorem petivit.
 
 Your second sentence should state that when her father Eurytus was unwilling, Hercules captured Oechalia.
-> Cum Eurytus, pater eius, nouisset, Hercules Oechaliam cepit.
+> Cum Eurytus, pater eius, nollet, Hercules Oechaliam cepit.
 
 Your third sentence should express that Hercules said that he would kill her parents, and should include an indirect statement.
-> Hercules dixit interficere ea 
+> Hercules dixit eam parentes interfecturus esse.
 
 Your fourth sentence should say that Iole endured that her parents were killed.
-> 
+> Iole pati eam parentes interfecti sunt.
 
 Your fifth statement should say that when he had killed all of them, he sent Iole to Deianira.
-> 
+> Quia Is omina ea interfecit, Iolen Deianiram misit. 
 
 Notes
 Iole is a Greek name, and Hyginus uses the Greek form of her name in the accusative, Iolen.
 
-omnis, omnis
-mitto, mittĕre, misi, missus
-Oechalia, Oechaliae (f.): the city Oechalia
-pater, patris (m.)
 patior, pati, -, passus: endure, suffer; can take a noun as direct object or an indirect statement construction
-quia
