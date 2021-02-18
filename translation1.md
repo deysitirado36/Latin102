@@ -1,5 +1,4 @@
-**Needs one minor revision**
-**Excellent work!**
+**Full credit**
 
 1. Grammatical Analysis 👍 *Very nice!*
 
@@ -45,7 +44,7 @@ Deianiram *abduxit*.
 > - Action is prior to the main verb
 - Identify the form pollicitus est. What dictionary form would you look under to find this verb?
 > - 3rd, sg, perfect, passive, indicative
-> - Deponent verbs ❌ *What dictionary form would you look under*
+> - Deponent verbs
 > - Polliceor
 - Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
 > - Ablative, sg, neuter
@@ -53,6 +52,6 @@ Deianiram *abduxit*.
 
 3. Translation
 
-When Hercules had come to the court of King Dexamenus and violated his daughter Deianira, he wished her as a wife. When Hercules (WAS ABSENT) went 🤔 (*absum* == "be absent") away, centaur Eurytion requested Deianira as a wife. Since her father feared the centaur, he promised that he would give his daughter in marriage. 
+When Hercules had come to the court of King Dexamenus and violated his daughter Deianira, he wished her as a wife. When Hercules was absent, centaur Eurytion requested Deianira as a wife. Since her father feared the centaur, he promised that he would give his daughter in marriage. 
 
 At a settled time, he came with his brothers to the wedding. Hercules interupted and killed the centaur, and led Deianira away.
