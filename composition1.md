@@ -14,9 +14,4 @@ Your fourth sentence should say that Iole endured that her parents were killed.
 > Iolen patiebatur suum parentes interfectos esse.
 
 Your fifth statement should say that when he had killed all of them, he sent Iole to Deianira.
-> Quia Is omina ea interfecit, Iolen Deianiram misit.
-
-Notes
-Iole is a Greek name, and Hyginus uses the Greek form of her name in the accusative, Iolen.
-
-patior, pati, -, passus: endure, suffer; can take a noun as direct object or an indirect statement construction
+> Quia Is omnes eos interfecit, Iolen Deianiram misit.
