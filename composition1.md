@@ -1,6 +1,3 @@
-Heracles travelled to the city of Oechalia in Aetolia, and asked the king, Eurytus, for permission to marry his daughter, Iole. When Eurytus refused, Heracles not only destroyed the city, but killed Iole’s parents before her very eyes. He then took Iole captive, and sent her to his home, to his wife Deianira (!)
-
-
 Your first sentence should use a temporal clause to express that when Hercules came to Oechalia, he asked to marry Iole.
 > Cum Hercules Oechaliam veniisset, Iolen uxorem petivit.
 
