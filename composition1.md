@@ -5,7 +5,7 @@ Your second sentence should state that when her father Eurytus was unwilling, He
 > Cum Eurytus, pater eius, nollet, Hercules Oechaliam cepit.
 
 Your third sentence should express that Hercules said that he would kill her parents, and should include an indirect statement.
-> Hercules dixit se eius parentes interfecturam esse.
+> Herculem dixit se eius parentes interfecturum esse.
 
 Your fourth sentence should say that Iole endured that her parents were killed.
 > Iolen patiebatur suum parentes interfectos esse.
