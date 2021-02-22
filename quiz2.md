@@ -97,14 +97,14 @@ Latin relative clauses
 
 2. Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
 
-- translate the relative pronoun into Latin
-- identify the antecedent of the pronoun, and its gender and number
-- identify the case of the Latin pronoun, and explain why it is in that case
+- cui Deanira pollicebantur???? in coniugium duxit.
+- Eurytion, masculine, sg
+- Dative becuase it is the indirect object. Eurytion benefits from the promise.
 
 3. Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
 
 - translate the relative pronoun into Latin
-- identify the antecedent of the pronoun, and its gender and number
+- Eurytion, mas, singular
 - identify the case of the Latin pronoun, and explain why it is in that case
 
 4. Nessus tried to rape Deianira. Hercules killed Nessus.
