@@ -1,4 +1,5 @@
 Verb synopses
+
 Translate indicative forms as complete sentences.
 
 rogo, rogare, rogavi, rogatus: to ask
