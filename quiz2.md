@@ -32,7 +32,7 @@ polliceor, pollicēri, -, pollicitus: to promise
 - present infinitive passive: polliceri (HELP) POLLICI??
 - third plural imperfect subjunctive passive: POLLICERINTUR???
 - third plural perfect indicative passive: Polliciti sunt NONE???, promised
-- perfect active passive: ????
+- perfect infinitive passive: ????
 - third plural pluperfect subjunctive passive: Polliciti essent
 
 English relative clauses
