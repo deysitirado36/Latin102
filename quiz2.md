@@ -30,8 +30,8 @@ polliceor, pollicēri, -, pollicitus: to promise
 - third plural present subjunctive passive: polliceantur
 - third plural imperfect indicative passive: pollicebantur, were promising
 - present infinitive passive: polliceri (HELP) POLLICI??
-- third plural imperfect subjunctive passive: POLLICERINTUR???
-- third plural perfect indicative passive: Polliciti sunt NONE???, promised
+- third plural imperfect subjunctive passive: POLLICERNETUR 
+- third plural perfect indicative passive: Polliciti sunt, promised
 - perfect infinitive passive: ????
 - third plural pluperfect subjunctive passive: Polliciti essent
 
@@ -91,9 +91,9 @@ Latin relative clauses
 
 1. The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.
 
-- translate the relative pronoun into Latin
+- cum quibus 
 - identify the antecedent of the pronoun, and its gender and number
-- identify the case of the Latin pronoun, and explain why it is in that case
+- ablative becuase it is with the prepostion cum
 
 2. Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
 
