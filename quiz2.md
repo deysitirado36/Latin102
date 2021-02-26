@@ -29,10 +29,10 @@ polliceor, pollicēri, -, pollicitus: to promise
 - third plural present indicative passive: pollicentur, are promising
 - third plural present subjunctive passive: polliceantur
 - third plural imperfect indicative passive: pollicebantur, were promising
-- present infinitive passive: polliceri (HELP) POLLICI??
-- third plural imperfect subjunctive passive: POLLICERNETUR 
+- present infinitive passive: polliceri
+- third plural imperfect subjunctive passive: pollicerentur 
 - third plural perfect indicative passive: Polliciti sunt, promised
-- perfect infinitive passive: ????
+- perfect infinitive passive: pollicitum esse
 - third plural pluperfect subjunctive passive: Polliciti essent
 
 English relative clauses
@@ -49,102 +49,102 @@ Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twe
 
 1. The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.
 
-- 
+- The brothers with whom Eurytion came to the wedding were violent centaurs.
 
 2. Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
 
-- 
+- Dexamenus was afraid of Eurytion to whom Deanira was promised in marriage to.
 
 3. Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
 
-- 
+- Eurytion whose brothers were centaurs expected to marry Deianita.
 
 4. Nessus tried to rape Deianira. Hercules killed Nessus.
 
-- 
+- Nessus tried to rape Deianira whom Hercules killed.
 
 5. Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
 
-- 
+- Nessus gave Deianira a vial of blood by whom Hercules was poisoned.
 
 6. In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
 
-- 
+-  In Egypt, Hercules killed the priest Busiris who regularly sacrificed foreigners.
 
 7. Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows.
 
-- 
+- Prometheus’ heart was devoured by an eagle whom Hercules shot with his arrows.
 
 8. Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules.
 
-- 
+- Lycus who was killed by Hercules tried to kill Megara and her sons Therimachus and Ophites
 
 9. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
 
-- 
+- Hercules whom Apollo refused to give an oracle to stole a tripod from the temple at Delphi.
 
 10. Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
 
-- 
+- Hercules whom Juno drove threw into a fit of madness killed his own wife Megara.
 
 Latin relative clauses
 
 1. The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.
 
 - cum quibus 
-- identify the antecedent of the pronoun, and its gender and number
-- ablative becuase it is with the prepostion cum
+- brothers, masculine, plural
+- ablative because it is with the prepostion cum
 
 2. Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
 
-- cui Deanira pollicebantur???? in coniugium duxit.
+- cui
 - Eurytion, masculine, sg
-- Dative becuase it is the indirect object. Eurytion benefits from the promise.
+- Dative because it is an indirect object. Eurytion benefits from the promise.
 
 3. Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
 
-- translate the relative pronoun into Latin
+- cuius
 - Eurytion, mas, singular
-- identify the case of the Latin pronoun, and explain why it is in that case
+- genitive because the brothers are Eurytion's. Genitive shows possesion.
 
-4. Nessus tried to rape Deianira. Hercules killed Nessus.
+4. Nessus tried to rape Deianira. Hercules killed Nessus. 
 
-- translate the relative pronoun into Latin
-- identify the antecedent of the pronoun, and its gender and number
-- identify the case of the Latin pronoun, and explain why it is in that case
+- quem
+- Nessus, masculine, singular
+- accusative becuase he serves the function of a direct obeject
 
 5. Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
 
-- translate the relative pronoun into Latin
-- identify the antecedent of the pronoun, and its gender and number
-- identify the case of the Latin pronoun, and explain why it is in that case
+- ab quo
+- the blood, masculine, singular
+- ablative because it is with the prepostion ab
 
 6. In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
 
-- translate the relative pronoun into Latin
-- identify the antecedent of the pronoun, and its gender and number
-- identify the case of the Latin pronoun, and explain why it is in that case
+- qui
+- the priest Busiris, masculine, singular
+- nominative becuase it is palying the role of a subject
 
-7. Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows.
+7. Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows. whom
 
-- translate the relative pronoun into Latin
-- identify the antecedent of the pronoun, and its gender and number
-- identify the case of the Latin pronoun, and explain why it is in that case
+- quam
+- the eagle, feminine, singular
+- accusative because it is playing the role of a direct object
 
 8. Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules.
 
-- translate the relative pronoun into Latin
-- identify the antecedent of the pronoun, and its gender and number
-- identify the case of the Latin pronoun, and explain why it is in that case
+- qui
+- Lycus, masculine, singular
+- nominative because it is playing the role of a subject
 
 9. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
 
 - translate the relative pronoun into Latin
-- identify the antecedent of the pronoun, and its gender and number
+- Hercules, masculine, singular
 - identify the case of the Latin pronoun, and explain why it is in that case
 
 10. Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
 
-- translate the relative pronoun into Latin
-- identify the antecedent of the pronoun, and its gender and number
-- identify the case of the Latin pronoun, and explain why it is in that case
+- quem
+- Hercules, masculine, singular 
+- accusative because it is playing the role of a direct object
