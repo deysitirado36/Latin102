@@ -53,7 +53,7 @@ Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twe
 
 2. Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
 
-- Dexamenus was afraid of Eurytion to whom Deanira was promised in marriage to.
+- Dexamenus was afraid of Eurytion to whom Deanira was promised in marriage.
 
 3. Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
 
@@ -65,7 +65,7 @@ Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twe
 
 5. Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
 
-- Nessus gave Deianira a vial of blood by whom Hercules was poisoned.
+- Nessus gave Deianira a vial of blood by which Hercules was poisoned.
 
 6. In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
 
@@ -81,7 +81,7 @@ Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twe
 
 9. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
 
-- Hercules to whom Apollo refused to give an oracle to stole a tripod from the temple at Delphi.
+- Hercules to whom Apollo refused to give an oracle stole a tripod from the temple at Delphi.
 
 10. Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
 
@@ -113,11 +113,11 @@ Latin relative clauses
 - Nessus, masculine, singular
 - accusative becuase he serves the function of a direct obeject
 
-5. Nessus gave Deianira a vial of blood by whom Hercules was poisoned.
+5. Nessus gave Deianira a vial of blood by which Hercules was poisoned.
 
-- ab quo
+- quo
 - the blood, masculine, singular
-- ablative because it is with the prepostion ab
+- ablative because it shows by what means Hercules was poisoned.
 
 6. In Egypt, Hercules killed the priest Busiris who regularly sacrificed foreigners.
 
