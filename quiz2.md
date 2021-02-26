@@ -37,16 +37,6 @@ polliceor, pollicēri, -, pollicitus: to promise
 
 English relative clauses
 
-Combine them into one complex sentence by keeping the first sentence as the independent clause, and making the second sentence a relative clause.
-
-Example:
-
-Hercules was ordered by Eurystheus to perform twelve labors. Eurystheus was the son of Sthenelus.
-
-you could make the second sentence a relative clause like this:
-
-Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twelve labors.
-
 1. The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.
 
 - The brothers with whom Eurytion came to the wedding were violent centaurs.
@@ -137,7 +127,7 @@ Latin relative clauses
 - Lycus, masculine, singular
 - nominative because it is playing the role of a subject
 
-9. Hercules to whom Apollo refused to give an oracle to stole a tripod from the temple at Delphi.
+9. Hercules to whom Apollo refused to give an oracle stole a tripod from the temple at Delphi.
 
 - cui
 - Hercules, masculine, singular
