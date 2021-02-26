@@ -81,7 +81,7 @@ Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twe
 
 9. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
 
-- Hercules whom Apollo refused to give an oracle to stole a tripod from the temple at Delphi.
+- Hercules to whom Apollo refused to give an oracle to stole a tripod from the temple at Delphi.
 
 10. Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
 
