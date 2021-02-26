@@ -61,7 +61,7 @@ Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twe
 
 4. Nessus tried to rape Deianira. Hercules killed Nessus.
 
-- Nessus tried to rape Deianira whom Hercules killed.
+- Nessus whom Hercules killed tried to rape Deianira.
 
 5. Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
 
@@ -77,7 +77,7 @@ Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twe
 
 8. Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules.
 
-- Lycus who was killed by Hercules tried to kill Megara and her sons Therimachus and Ophites
+- Lycus who was killed by Hercules tried to kill Megara and her sons Therimachus and Ophites.
 
 9. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
 
@@ -89,61 +89,61 @@ Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twe
 
 Latin relative clauses
 
-1. The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.
+1. The brothers with whom Eurytion came to the wedding were violent centaurs.
 
 - cum quibus 
 - brothers, masculine, plural
 - ablative because it is with the prepostion cum
 
-2. Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
+2. Dexamenus was afraid of Eurytion to whom Deanira was promised in marriage to.
 
 - cui
 - Eurytion, masculine, sg
 - Dative because it is an indirect object. Eurytion benefits from the promise.
 
-3. Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
+3. Eurytion whose brothers were centaurs expected to marry Deianita.
 
 - cuius
 - Eurytion, mas, singular
 - genitive because the brothers are Eurytion's. Genitive shows possesion.
 
-4. Nessus tried to rape Deianira. Hercules killed Nessus. 
+4. Nessus whom Hercules killed tried to rape Deianira. 
 
 - quem
 - Nessus, masculine, singular
 - accusative becuase he serves the function of a direct obeject
 
-5. Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
+5. Nessus gave Deianira a vial of blood by whom Hercules was poisoned.
 
 - ab quo
 - the blood, masculine, singular
 - ablative because it is with the prepostion ab
 
-6. In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
+6. In Egypt, Hercules killed the priest Busiris who regularly sacrificed foreigners.
 
 - qui
 - the priest Busiris, masculine, singular
 - nominative becuase it is palying the role of a subject
 
-7. Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows. whom
+7. Prometheus’ heart was devoured by an eagle whom Hercules shot with his arrows.
 
 - quam
 - the eagle, feminine, singular
 - accusative because it is playing the role of a direct object
 
-8. Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules.
+8. Lycus who was killed by Hercules tried to kill Megara and her sons Therimachus and Ophites.
 
 - qui
 - Lycus, masculine, singular
 - nominative because it is playing the role of a subject
 
-9. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
+9. Hercules to whom Apollo refused to give an oracle to stole a tripod from the temple at Delphi.
 
-- translate the relative pronoun into Latin
+- cui
 - Hercules, masculine, singular
-- identify the case of the Latin pronoun, and explain why it is in that case
+- dative because it is an indirect object. Hercules is impacted.
 
-10. Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
+10. Hercules whom Juno drove threw into a fit of madness killed his own wife Megara.
 
 - quem
 - Hercules, masculine, singular 
