@@ -15,4 +15,4 @@ Your fourth sentence should say that Iole endured that her parents were killed.
 > Iolen patiebatur suos parentes interfectos esse.
 
 Your fifth statement should say that when he had killed all of them, he sent Iole to Deianira.
-> Quia❌?? Is omnes eos interfecit, Iolen ad Deianiram misit.
+> Quia❌ Is omnes eos interfecit, Iolen ad Deianiram misit.
