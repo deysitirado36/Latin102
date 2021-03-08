@@ -12,7 +12,7 @@ Your third sentence should express that Hercules said that he would kill her par
 > Herculem dixit se eius parentes interfecturum esse.
 
 Your fourth sentence should say that Iole endured that her parents were killed.
-> Iolen patiebatur suum❌ parentes interfectos esse.
+> Iolen patiebatur suum❌ sui? parentes interfectos esse.
 
 Your fifth statement should say that when he had killed all of them, he sent Iole to Deianira.
-> Quia❌ Is omnes eos interfecit, Iolen Deianiram❌ misit.
+> Quia❌?? Is omnes eos interfecit, Iolen Deianiram❌ Deianirae? misit.
