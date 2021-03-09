@@ -3,9 +3,9 @@ Deianira,
 
 > flumen magnum, 
 
->> cui nomen Evenus erat, 
+>> cui nomen Evenus erat, (Relative Clause)
 
-> non poterat transire, 
+> non poterat transire, (Participial Expression: Causal)
 
 > et centaurum Nessum, 
 
