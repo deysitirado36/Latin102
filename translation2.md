@@ -3,7 +3,7 @@ Deianira,
 
 > flumen magnum, 
 
-> cui nomen Evenus erat, 
+>> cui nomen Evenus erat, 
 
 > non poterat transire, 
 
