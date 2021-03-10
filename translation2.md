@@ -5,7 +5,7 @@ Deianira,
 
 >> cui nomen Evenus erat, (Relative Clause)
 
-> non poterat transire, (Participial Expression: Causal)
+> non poterat transire, (Participial Expression: Causal) Complementary Infinitive
 
 > et centaurum Nessum, 
 
