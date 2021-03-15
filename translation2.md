@@ -2,22 +2,23 @@ A. Grammatical analysis
 
 Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. Italicize the verb of each unit by surrounding it with asterisks.
 
-Deianira, 
-> uxor Herculis, (Appositive phrase)
+Deianira, uxor Herculis, flumen magnum, 
 
-> flumen magnum, 
+> *cui* nomen Evenus *erat*, (Relative Clause), dative, sg, neuter 
 
->> *cui* nomen Evenus *erat*, (Relative Clause),
-
-non *poterat* transire, Complementary Infinitive, imperfect, indicative
+non *poterat* transire, (Complementary Infinitive), imperfect, indicative
 
 *et* centaurum Nessum, 
 
->> *qui* filius Ixionis et Nubis *erat,*
+> *qui* filius Ixionis et Nubis *erat,* (Relative clause), indicative, genative
 
 auxilium *rogavit*. 
 
-Hic Deianiram sublatam in flumine ipso uiolare uoluit. 
+*Hic* Deianiram 
+
+> sublatam in flumine ipso 
+
+*uiolare* *uoluit.*
 
 huc Hercules cum interuenisset et Deianira cum fidem eius implorasset, Nessum sagittis confixit.
 
