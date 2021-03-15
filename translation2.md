@@ -29,23 +29,19 @@ huc Hercules
 Nessum sagittis *confixit*. 
 
 ille 
+
 > moriens, 
 
-> cum *sciret* (Temporal Clause) Imperfect Active Subjunctive
->> sagittas Hydrae Lernaeae 
->>> felle tinctas 
+> *cum* *sciret* (Temporal Clause) Imperfect Active Subjunctive circumstnce
 
->> magnam vim *habere*, (Indirect Statement)
+>> *sagittas* Hydrae Lernaeae felle tinctas magnam vim *habere*, (Indirect Statement)
 
 sanguinem suum 
 > exceptum 
 
-Deianirae dedit
+Deianirae *dedit*
 
-et
-> id philtrum esse
-
-dixit (Indirect Statment) perfect active indicative
+*et* id philtrum esse *dixit* (Indirect Statment) perfect active indicative
 
 B. Grammatical questions
 
@@ -56,9 +52,9 @@ Identify the form of transire. Explain why you placed it in the clause you chose
 sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
 - 
 Identify the form of sagittis. Why does Hyginus use this case?
-- Ablative, the intrument used
+- Acc, fem, the intrument used sg
 Identify the form of moriens.
-- 
+- present active 
 Identify felle. Why does Hyginus use this case?
 - 
 Identify the form of tinctas.
