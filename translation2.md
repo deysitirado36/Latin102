@@ -34,14 +34,23 @@ ille
 
 > *cum* *sciret* (Temporal Clause) Imperfect Active Subjunctive circumstnce
 
->> *sagittas* Hydrae Lernaeae felle tinctas magnam vim *habere*, (Indirect Statement)
+>> *sagittas* 
+
+>>> Hydrae Lernaeae felle tinctas reason
+
+>> magnam vim *habere*, (Indirect Statement)
 
 sanguinem suum 
+
 > exceptum 
 
 Deianirae *dedit*
 
-*et* id philtrum esse *dixit* (Indirect Statment) perfect active indicative
+*et* 
+
+> id philtrum esse 
+
+*dixit* (Indirect Statment) perfect active indicative
 
 B. Grammatical questions
 
