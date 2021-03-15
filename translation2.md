@@ -7,15 +7,15 @@ Deianira,
 
 > flumen magnum, 
 
->> cui nomen Evenus erat, (Relative Clause)
+>> *cui* nomen Evenus *erat*, (Relative Clause),
 
-> non poterat transire, (Participial Expression: Causal) Complementary Infinitive
+non *poterat* transire, Complementary Infinitive, imperfect, indicative
 
-> et centaurum Nessum, 
+*et* centaurum Nessum, 
 
->> qui filius Ixionis et Nubis erat, 
+>> *qui* filius Ixionis et Nubis *erat,*
 
-auxilium rogavit. 
+auxilium *rogavit*. 
 
 Hic Deianiram sublatam in flumine ipso uiolare uoluit. 
 
