@@ -16,11 +16,17 @@ auxilium *rogavit*.
 
 *Hic* Deianiram 
 
-> sublatam in flumine ipso 
+> *sublatam* in flumine ipso (gender case and number of deinara (direct object) passive voice perfect) Circumstance
 
 *uiolare* *uoluit.*
 
-huc Hercules cum interuenisset et Deianira cum fidem eius implorasset, Nessum sagittis confixit.
+huc Hercules 
+
+> *cum interuenisset*, temporal clause
+
+> et Deianira *cum* fidem eius *implorasset*, temporal clause
+
+Nessum sagittis *confixit*. 
 
 ille 
 > moriens, 
@@ -50,7 +56,7 @@ Identify the form of transire. Explain why you placed it in the clause you chose
 sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
 - 
 Identify the form of sagittis. Why does Hyginus use this case?
--
+- Ablative, the intrument used
 Identify the form of moriens.
 - 
 Identify felle. Why does Hyginus use this case?
