@@ -1,37 +1,41 @@
+**Needs one revision!**
+**This is VERY impressive!**
+**You need to include a SUBJECT with your translation of the Latin verb.  Otherwise, this is perfect. Superb!**
+
 Verb synopses
 
 Translate indicative forms as complete sentences.
 
 rogo, rogare, rogavi, rogatus: to ask
 
-- third plural present indicative active: rogant, are asking
+- third plural present indicative active: rogant, are asking ❌ **The Latin verb includes a subject!**
 - third plural present subjunctive active: rogent
-- third plural imperfect indicative active: rogabant, were asking
+- third plural imperfect indicative active: rogabant, were asking❌
 - present infinitive active: rogare
 - third plural imperfect subjunctive active: rogarent
-- third plural perfect indicative active: rogaverunt, asked
+- third plural perfect indicative active: rogaverunt, asked❌
 - perfect active infinitive: rogavisse
 - third plural pluperfect subjunctive active:rogavissent
 
 rapio, rapĕre, rapui, raptus: to seize and carry off
 
-- third plural present indicative active: rapiunt, are seizing
+- third plural present indicative active: rapiunt, are seizing❌
 - third plural present subjunctive active: rapiant
-- third plural imperfect indicative active: rapiebant, were seizing 
+- third plural imperfect indicative active: rapiebant, were seizing❌ 
 - present infinitive active: rapere
 - third plural imperfect subjunctive active: raperent
-- third plural perfect indicative active: rapuerunt, seized
+- third plural perfect indicative active: rapuerunt, seized❌
 - perfect active infinitive: rapuisse
 - third plural pluperfect subjunctive active: rapuissent
 
 polliceor, pollicēri, -, pollicitus: to promise 
 
-- third plural present indicative passive: pollicentur, are promising
+- third plural present indicative passive: pollicentur, are promising❌
 - third plural present subjunctive passive: polliceantur
-- third plural imperfect indicative passive: pollicebantur, were promising
+- third plural imperfect indicative passive: pollicebantur, were promising❌
 - present infinitive passive: polliceri
 - third plural imperfect subjunctive passive: pollicerentur 
-- third plural perfect indicative passive: Polliciti sunt, promised
+- third plural perfect indicative passive: Polliciti sunt, promised❌
 - perfect infinitive passive: pollicitum esse
 - third plural pluperfect subjunctive passive: Polliciti essent
 
