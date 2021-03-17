@@ -34,7 +34,7 @@ ille
 
 >> *sagittas* Hydrae Lernaeae (Participle)
 
->>> felle tinctas reason
+>>> felle tinctas
 
 >> magnam vim *habere*, (Indirect Statement)
 
