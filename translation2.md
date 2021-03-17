@@ -48,7 +48,7 @@ Deianirae *dedit*
 
 > id philtrum esse 
 
-*dixit* (Indirect Statment)
+*dixit.* (Indirect Statment)
 
 B. Grammatical questions
 
