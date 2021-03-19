@@ -14,7 +14,7 @@ auxilium *rogavit*.
 
 *Hic* Deianiram 
 
-> *sublatam* in flumine ipso (Participle)
+> *sublatam* in flumine ipso (Perfect Passive Participle)
 
 *uiolare* *uoluit.*
 
@@ -22,7 +22,9 @@ huc Hercules
 
 > *cum interuenisset*, (Temporal Clause)
 
-> et Deianira *cum* fidem eius *implorasset*, (Temporal Clause)
+> et 
+
+> Deianira *cum* fidem eius *implorasset*, (Temporal Clause)
 
 Nessum sagittis *confixit*. 
 
@@ -60,8 +62,7 @@ Identify the form of transire. Explain why you placed it in the clause you chose
 
 sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense, voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
 - fem, accusative, sg, perfect, passive. 
-- lātus, a, um, Part., v. fero. 
-- fĕro, tŭli, lātum, ferre
+- suf-fĕro ( subf-), sustŭli, sublātum, sufferre, v. a
 
 Identify the form of sagittis. Why does Hyginus use this case?
 - Acc, fem, sg and they used it because it is the intrument used
@@ -79,4 +80,4 @@ Identify the form of exceptum.
 - accusative, masculine, singular
 
 William Faulkner’s novel As I lay dying takes its title from an English translation of a single word in Odyssey 11.424. In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. Suggest one or more possible translations of Faulkner’s title into Latin.
-- 
+- moriens
