@@ -32,13 +32,13 @@ ille
 
 > moriens, 
 
-> *cum* *sciret* (Temporal Clause)
+> *cum* *sciret* (Indirect Statement)
 
->> *sagittas* Hydrae Lernaeae (Participle)
+>> *sagittas* 
 
->>> felle tinctas
+>>> Hydrae Lernaeae felle tinctas 
 
->> magnam vim *habere*, (Indirect Statement)
+>> magnam vim *habere*,
 
 sanguinem suum 
 
