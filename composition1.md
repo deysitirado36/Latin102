@@ -1,6 +1,3 @@
-**Needs minor revisions**
-**Excellent draft!**
-
 Your first sentence should use a temporal clause to express that when Hercules came to Oechalia, he asked to marry Iole.
 
 > Cum Hercules Oechaliam veniisset, Iolen uxorem petivit.
