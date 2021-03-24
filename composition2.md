@@ -1,5 +1,12 @@
 Your first sentence should use a negative purpose clause to say that when Deianira, the daughter of Oeneus and the wife of Hercules saw that the beautiful young girl Iole had been brought (to her house), she began to devise a plot in order not to lose her husband (or “be deprived of” her husband).
-- 
+
+> When Deianira saw (Temporal Clause) Cum + sub of video
+
+>> that Iole had been brought (Indirect statement) Iolen adductam esse
+
+she began to devise a plan coepit machinari
+
+> in order to not lose her husband (ablative or marriage, conigium). (Purpose Clause) ne privaretur + imperfect passive subjunctive 
 
 Your second sentence should express that she sent her servant to bring to Hercules a garment dipped in the blood of the centaur Nessus, which she thought was a love potion.
 - 
