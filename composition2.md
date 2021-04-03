@@ -9,14 +9,29 @@ coepit machinari
 > ne privaretur suus marito.
 
 Your second sentence should express that she sent her servant to bring to Hercules a garment dipped in the blood of the centaur Nessus, which she thought was a love potion.
-Ea misit suus servant 
-> 
+
+Ea suus famulum misit
+
+> ad adductndum vestem tinctus est sanguine centauri Nessi Herculi,
+
+>> quem congitabat amorem potionem.
 
 Your third sentence should say that Hercules put the garment on and it immediately burst into flames.
-- 
+
+> Hercules induentem
+
+statim flammbat.
 
 Your fourth sentence should express that Hercules threw the slave, whom Deianira had sent to bring the garment back, into the sea.
--
+
+Hercules threw the slave,
+
+> quem Deianira misit reddidisse vestimentum,
+
+in mare.
 
 Your last sentence should express that it is reported (or said) that Hercules rose to immortality, but Deianira killed herself on account of this deed.
--
+
+Dictus est quia Herculem estortum esse,
+
+> Deianira interfecit suam.
