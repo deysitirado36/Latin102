@@ -57,7 +57,7 @@ Deianirae *dedit*
 B. Grammatical questions
 
 Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?)
-- The antecedent is flumen and cui is singular & neuter. It is also dative because it is the indirect object❌
+- The antecedent is flumen and cui is singular & neuter. It is also dative because it is the possesor
 
 Identify the form of transire. Explain why you placed it in the clause you chose.
 - transire is a present infinitive. I put it as a comlementary infinitive because it is completing the meaning of the verb to be able to before it.
@@ -70,16 +70,16 @@ Identify the form of sagittis. Why does Hyginus use this case?
 - Acc, fem, sg and they used it because it is the intrument used
 
 Identify the form of moriens
-- present active participle ❌ **Gender, case?**
+- present active participle, masculin, nominative
 
 Identify felle. Why does Hyginus use this case?
 - neruter & singular. Ablative becuase it is used to express means
 
 Identify the form of tinctas.
-- Accusative, fem, plural ❌ **Gender, case?**
+- Accusative, fem, plural, perfect, passive
 
 Identify the form of exceptum.
-- accusative, masculine, singular ❌ 
+- accusative, masculine, singular, perfect, passive 
 
 William Faulkner’s novel As I lay dying takes its title from an English translation of a single word in Odyssey 11.424. In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. Suggest one or more possible translations of Faulkner’s title into Latin.
 - moriens
