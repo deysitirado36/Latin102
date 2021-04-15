@@ -1,4 +1,4 @@
-**Needs revisions**
+
 
 A. Grammatical analysis
 
@@ -83,3 +83,7 @@ Identify the form of exceptum.
 
 William Faulkner’s novel As I lay dying takes its title from an English translation of a single word in Odyssey 11.424. In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. Suggest one or more possible translations of Faulkner’s title into Latin.
 - moriens
+
+C. Translation
+
+Deinira, the wife of Hercules, was not able to cross the great river, whose name was Evenus, and asked for help from the centaur NEssus, who was the son of Ixion and Nubis. He wanted to rape Deianira when she had been carried in the river. When Hercules interfiered and when Deianira begged with tears for for his protection, peirced Nessus with arrows. As he was dying, when he knew that arrows had had great power becuase they had been dipped in the poisen of the Lernean Hydra, when gave Deinira his own blood that had been taken out and he said it was a potion. 
