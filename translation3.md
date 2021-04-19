@@ -46,7 +46,7 @@ B. Grammatical questions
 
 4 - Explain the construction of the verbal unit flumine admisso.
 
-- This is an ablative ablsolute construction. 
+- This is an ablative ablsolute construction. Flumine is the ablative of flumen, fluminis (n) and admisso is the ablative of admissus/a/um. Flumine serves as the ablative sub while admisso serves as the ablative predicate. 
 
 5 - What are the gender, number, case, and antecedent of qui?
 
@@ -65,7 +65,7 @@ Choose two choices of syntax, word order, or diction that Hyginus makes in this 
 
 D. Translation
 
-7. He cleaned the stable of king Augeas in one day, the greater part, while Iovis was his helper, 
+7. He cleaned the stable of king Augeas in one day, a greater part while Iovis was his helper, 
 
 8. m
 
