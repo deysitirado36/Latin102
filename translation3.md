@@ -12,7 +12,15 @@ Place each verbal idea (clause, indirect statement, participial expression) on a
 
 7. 
 
-Augeae regis stercus bobile uno die purgavit, maiorem partem Iove adiutore; flumine admisso totum stercus abluit.
+Augeae regis stercus bobile uno die *purgavit*,
+
+maiorem partem 
+
+> Iove adiutore;
+
+> flumine admisso
+
+totum stercus *abluit.*
 
 8. 
 
@@ -26,15 +34,27 @@ B. Grammatical questions
 
 1 - In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase?
 
+- Iove is in the ablative case. This is an ablative ablsolute construction.
+
 2 - What case is stercus, and why is it in that case?
+
+- d
 
 3 - Identify the form of the adjective maiorem (gender, case, number, degree).
 
+- 
+
 4 - Explain the construction of the verbal unit flumine admisso.
+
+- This is an ablative ablsolute construction. 
 
 5 - What are the gender, number, case, and antecedent of qui?
 
+-
+
 6 - What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
+
+-
 
 C. Literary commentary
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly s in 3-4 sentences. Italicize Latin words when citing them.
@@ -45,7 +65,7 @@ Choose two choices of syntax, word order, or diction that Hyginus makes in this 
 
 D. Translation
 
-7. k
+7. He cleaned the stable of king Augeas in one day, the greater part, while Iovis was his helper, 
 
 8. m
 
