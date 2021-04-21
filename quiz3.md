@@ -86,7 +86,7 @@ Noun-adjective pairs (in various cases):
 
 > iaculor, iaculari or iacularier, -, iaculatus sum "To throw or hurl"
 
-**8. vescebantur**
+**8. vescebantur HELP**
 
 > vescor, vesci, - , - "(with accusative or ablative) To eat, feed upon, (with accusative or ablative) To make use of, enjoy, use, (intransitive) To eat"
 
@@ -107,37 +107,37 @@ Dictionaries do not include large numbers of proper names and adjectives. Compos
 
 1. Luna (nominative)
 
->
+> Luna, Lunae, f.
 
 2. Minerva (nominative)
 
->
+> Minerva, Minvervae, f.
 
-3. in Phrygia
+**3. in Phrygia HELP**
 
->
+> 
 
-4. ex Creta
+**4. ex Creta HELP**
 
->
+> 
 
-5. Thraciae rex
+**5. Thraciae rex HELP**
 
->
+> 
 
-6. cum Abdero
+**6. cum Abdero HELP**
 
->
+> 
 
-7. Eurystheo regi
+**7. Eurystheo regi HELP**
 
->
+> 
 
 Compose a dictionary form for the proper adjectives in the following phrases:
 
 1. Leonem Nemeum
 
->
+> 
 
 2. Hydram Lernaeam
 
