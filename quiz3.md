@@ -155,7 +155,7 @@ Compose a dictionary form for the proper adjectives in the following phrases:
 
 >
 
-**Comparative and superlative forms**
+**Comparative and superlative forms, 4**
 Translate the highlighted phrases in the following English sentences into Latin. Use these vocabulary items:
 
 two fourth-declension nouns:
