@@ -1,16 +1,4 @@
-Dictionary skills, 1: noun-adjective pairs
-
-For each word in the following phrases, list the forms the dictionary entry gives you for the word:
-
-for a noun, nominative singular, genitive singular and gender
-
-for an adjective, two or three forms:
-
-> for a one-ending adjective, masculine nominative singular and masculine genitive singular
-
-> for a two-ending adjective, masculine/feminine nominative singular, neuter nominative singular
-
-> for a three-ending adjective, masculine, feminine and neuter nominative singular
+**Dictionary skills, 1: noun-adjective pairs**
 
 Noun-adjective pairs (in various cases):
 
@@ -18,37 +6,41 @@ Noun-adjective pairs (in various cases):
 
 > unus/a/um "one"
 
-> dies, diei (m) "day"
+> dies, diei, m. "day"
 
 2. totum stercus
 
+> totus/a/um "the whole, entire, total"
+ 
+> stercus, stercoris, n. "dung, excrements"
+
 3. ceruum ferocem
 
-> ferox, ferocis
- 
-> 
+> cerium, cerii/i, n. "A bad species of swelling or ulcer"
+
+> ferox, ferocis "wild, bold"
 
 4. tantam vim
 
 > tantus/a/um "so much"
 
-> adj irregular
+> vis, vis, f. "force, power"
 
 5. sagittas suas
 
-> ssagitas, sagatae "arrow"
+> sagitta, sagittae, f. "arrow"
 
-> suas/a/um "Her
+> suus/a/um "Her"
 
 6. cornibus aureis
 
-> cornu, cornus (n) "horn"
+> cornu, cornus, n. "horn"
 
 > aureus/a/um "golden"
 
 7. carne humana
 
-> caro, carnes (f) "flesh"
+> caro, carnis, f. "flesh"
  
 > humanus/a/um "human"
 
@@ -56,65 +48,114 @@ Noun-adjective pairs (in various cases):
 
 > immanis, immane "huge"
 
-> draco, draconis (m) "dragon"
+> draco, draconis, m. "dragon"
 
 9. mala aurea
 
 > aureus/a/um "golden"
 
-> malum, mali (n) "apple"
+> malum, mali, n. "apple"
 
-Dictionary skills, 2: verb forms
-For the following verbs in various forms, list the four principal parts you would find in a dictionary entry for this verb. If a part is missing (e.g., for a deponent verb, there will be no perfect active form for a third prinicipal part), list a dash - for the missing part.
+**Dictionary skills, 2: verb forms**
 
 1. transierat
 
+> transeo, transivi or transii, transitum, transire "to go over or across"
+
 2. afflabat
+
+> afflo, afflare, afflavi, afflatum " To blow, breathe"
 
 3. moriebatur
 
+> 
+
 4. exinteravit
+
+>
 
 5. effugiebat
 
+>
+
 6. adduxit
+
+>
 
 7. iaculabantur
 
+>
+
 8. vescebantur
+
+>
 
 9. detraxit
 
+>
+
 10. solitus erat
+
+>
 
 11. attulit
 
-Dictionary skills, 3: proper nouns and adjectives
+>
+
+**Dictionary skills, 3: proper nouns and adjectives**
 Dictionaries do not include large numbers of proper names and adjectives. Compose a dictionary for the proper nouns in the following phrases:
 
 1. Luna (nominative)
 
+>
+
 2. Minerva (nominative)
+
+>
 
 3. in Phrygia
 
-4. 5. ex Creta
+>
 
-6. Thraciae rex
+4. ex Creta
 
-7. cum Abdero
+>
 
-8. Eurystheo regi
+5. Thraciae rex
+
+>
+
+6. cum Abdero
+
+>
+
+7. Eurystheo regi
+
+>
 
 Compose a dictionary form for the proper adjectives in the following phrases:
 
 1. Leonem Nemeum
-Hydram Lernaeam
-aprum Erymanthium
-aves Stymphalides
-Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.)
 
-Comparative and superlative forms
+>
+
+2. Hydram Lernaeam
+
+>
+
+3. aprum Erymanthium
+
+>
+
+4. aves Stymphalides
+
+>
+
+5. Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.)
+
+>
+
+**Comparative and superlative forms**
 Translate the highlighted phrases in the following English sentences into Latin. Use these vocabulary items:
 
 two fourth-declension nouns:
@@ -126,12 +167,38 @@ a third-declension noun:
 pars, partis (f.) “part”
 and the adjective magnus/a/um, “great, large,” with irregular comparative maior, and superlative maximus.
 
-The Hydra killed passers by with a great blowing of his poisonous breath.
-The Hydra killed passers by with a greater blowing of his poisonous breath.
-The Hydra killed passers by with the greatest blowing of his poisonous breath.
-The victims died in great torment.
-The victims died in greater torment.
-The victims died in the greatest torment.
-Hercules cleaned a great part of the stables.
-Hercules cleaned a greater part of the stables.
-Hercules cleaned the greatest part of the stables.
+1. The Hydra killed passers by with a great blowing of his poisonous breath.
+
+>
+
+2. The Hydra killed passers by with a greater blowing of his poisonous breath.
+
+>
+
+3. The Hydra killed passers by with the greatest blowing of his poisonous breath.
+
+>
+
+4. The victims died in great torment.
+
+>
+
+5. The victims died in greater torment.
+
+>
+
+6. The victims died in the greatest torment.
+
+>
+
+7. Hercules cleaned a great part of the stables.
+
+>
+
+8. Hercules cleaned a greater part of the stables.
+
+>
+
+9. Hercules cleaned the greatest part of the stables.
+
+>
