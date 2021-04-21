@@ -68,39 +68,39 @@ Noun-adjective pairs (in various cases):
 
 3. moriebatur
 
+> morior, mori, -, mortuus sum "To die"
+
+**4. exinteravit HELP**
+
 > 
-
-4. exinteravit
-
->
 
 5. effugiebat
 
->
+> effugio, effugere, effugi, effugitum "To flee from, escape"
 
 6. adduxit
 
->
+> adduco, adducere, adduxi, adductum " To lead, bring"
 
 7. iaculabantur
 
->
+> iaculor, iaculari or iacularier, -, iaculatus sum "To throw or hurl"
 
-8. vescebantur
+**8. vescebantur**
 
->
+> vescor, vesci, - , - "(with accusative or ablative) To eat, feed upon, (with accusative or ablative) To make use of, enjoy, use, (intransitive) To eat"
 
 9. detraxit
 
->
+> detraho, detrahere, detraxi, detractum " To draw, pull"
 
-10. solitus erat
+**10. solitus erat HELP**
 
->
+> soleo, solere, solui or solitus sum, solitum) " To be accustomed, used to"
 
 11. attulit
 
->
+> affero, afferre, attuli, allatum "To carry, bring fourth"
 
 **Dictionary skills, 3: proper nouns and adjectives**
 Dictionaries do not include large numbers of proper names and adjectives. Compose a dictionary for the proper nouns in the following phrases:
