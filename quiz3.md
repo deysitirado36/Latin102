@@ -148,7 +148,7 @@ Compose a dictionary form for the proper adjectives in the following phrases:
 
 > Stymphalis, Stymphalidis
 
-**5. Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.)
+5. Hippolyten Amazonam
 
 > Amazonius, Amazonia, Amazonium
 
