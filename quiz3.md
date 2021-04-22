@@ -137,23 +137,24 @@ Compose a dictionary form for the proper adjectives in the following phrases:
 
 1. Leonem Nemeum
 
-> 
+> Nemeus, Nemea, Nemeum
 
 2. Hydram Lernaeam
 
->
+> Lernaeus, Lernaea, Lernaeum
 
 3. aprum Erymanthium
 
->
+> Erymanthius, Erymanthia, Erymanthium
 
 4. aves Stymphalides
 
->
+> Stymphalis, Stymphalidis
+> Stymphalis, Stymphalis, **Stymphale??**
 
 5. Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.)
 
->
+> Hippolytus, Hippolyta, Hippolytum **HELP**
 
 **Comparative and superlative forms, 4**
 
@@ -168,38 +169,38 @@ a third-declension noun:
 pars, partis (f.) “part”
 and the adjective magnus/a/um, “great, large,” with irregular comparative maior, and superlative maximus.
 
-1. The Hydra killed passers by with a great blowing of his poisonous breath.
+1. The Hydra killed passers by *with a great blowing* of his poisonous breath.
 
->
+> magno afflatu
 
-2. The Hydra killed passers by with a greater blowing of his poisonous breath.
+2. The Hydra killed passers by *with a greater blowing* of his poisonous breath.
 
->
+> maiore afflatu
 
-3. The Hydra killed passers by with the greatest blowing of his poisonous breath.
+3. The Hydra killed passers by *with the greatest blowing* of his poisonous breath.
 
->
+> maximo afflatu
 
-4. The victims died in great torment.
+4. The victims died *in great torment.*
 
->
+> in magno cruciatu
 
-5. The victims died in greater torment.
+5. The victims died *in greater torment.*
 
->
+> in maiore cruciatu
 
-6. The victims died in the greatest torment.
+6. The victims died *in the greatest torment.*
 
->
+> in maximo cruciatu
 
-7. Hercules cleaned a great part of the stables.
+7. Hercules cleaned *a great part* of the stables.
 
->
+> magnam partem
 
-8. Hercules cleaned a greater part of the stables.
+8. Hercules cleaned *a greater part* of the stables.
 
->
+> 	maiorem partem
 
-9. Hercules cleaned the greatest part of the stables.
+9. Hercules cleaned *the greatest part* of the stables.
 
->
+> maximam partem
