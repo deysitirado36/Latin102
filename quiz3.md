@@ -1,7 +1,5 @@
 **Dictionary skills, 1: noun-adjective pairs**
 
-Noun-adjective pairs (in various cases):
-
 1. uno die
 
 > unus/a/um "one"
@@ -103,7 +101,6 @@ Noun-adjective pairs (in various cases):
 > affero, afferre, attuli, allatum "To carry, bring fourth"
 
 **Dictionary skills, 3: proper nouns and adjectives**
-Dictionaries do not include large numbers of proper names and adjectives. Compose a dictionary for the proper nouns in the following phrases:
 
 1. Luna (nominative)
 
@@ -113,25 +110,25 @@ Dictionaries do not include large numbers of proper names and adjectives. Compos
 
 > Minerva, Minvervae, f.
 
-**3. in Phrygia HELP**
+3. in Phrygia
 
-> 
+> Phrygia, Phrygiae, f.
 
-**4. ex Creta HELP**
+4. ex Creta
 
-> 
+> Creta, Cretae, f.
 
-**5. Thraciae rex HELP**
+5. Thraciae rex
 
-> 
+> Thracia, Thraciae, f.
 
-**6. cum Abdero HELP**
+6. cum Abdero
 
-> 
+> Abderus, Abderi, m.
 
-**7. Eurystheo regi HELP**
+7. Eurystheo regi
 
-> 
+> Eurystheus, Eurysthei, m.
 
 Compose a dictionary form for the proper adjectives in the following phrases:
 
@@ -151,9 +148,9 @@ Compose a dictionary form for the proper adjectives in the following phrases:
 
 > Stymphalis, Stymphalidis
 
-5. Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.)
+**5. Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.)
 
-**> Hippolytus, Hippolyta, Hippolytum?? HELP**
+> Amazonius, Amazonia, Amazonium
 
 **Comparative and superlative forms, 4**
 
