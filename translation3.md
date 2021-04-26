@@ -77,4 +77,4 @@ Choose two choices of syntax, word order, or diction that Hyginus makes in this 
 
 8. He brought the bull with whom Pasiphae lay with alive from the island in Cerete to Mycenae.
 
-9. Diomedes, King of Thrace, and his four horses which fed on human flesh he killed along with the slave Abderus. The horses' names were Podargus, Lampon, Xanthus, and Dinus.
+9. He killed Diomedes, King of Thrace, and his four horses which fed on human flesh along with the slave Abderus. The horses' names were Podargus, Lampon, Xanthus, and Dinus.
