@@ -69,8 +69,6 @@ Choose two choices of syntax, word order, or diction that Hyginus makes in this 
 
 7. He cleaned the dung from the stable of king Augeas in one day, a greater part while Iovis was his helper; by letting in a river he washed away all the dung. 
 
-8. He brought the bull with whom Pasiphae lay with alive from the island Mycenae in Crete.
-
-The bull with which Pasiphae lay he brought alive from the island of Crete to Mycenae.
+8. He brought the bull with whom Pasiphae lay with alive from the island in Cerete to Mycenae.
 
 9. Diomedes, King of Thrace, and his four horses which fed on human flesh he killed along with the slave Abderus. The horses' names were Podargus, Lampon, Xanthus, and Dinus.
