@@ -19,13 +19,13 @@ maiorem partem
 
 > Iove adiutore;
 
-> flumine admisso
+> flumine *admisso*
 
 totum stercus *abluit.*
 
 8. 
 
-taurum cum quo Pasiphae concubuit ex Creta insula Mycenis vivum adduxit.
+taurum cum quo Pasiphae concubuit ex Creta insula Mycenis vivum *adduxit.*
 
 9. 
 
@@ -39,11 +39,11 @@ Diomedem Thraciae regem et equos quattuor eius, qui carne humana vescebantur, cu
 
 2 - What case is stercus, and why is it in that case?
 
-- d
+- Accusative because it is what was cleaned from the stable.
 
 3 - Identify the form of the adjective maiorem (gender, case, number, degree).
 
-- 
+- Masculine, accusative, singular, comparative
 
 4 - Explain the construction of the verbal unit flumine admisso.
 
@@ -51,7 +51,7 @@ Diomedem Thraciae regem et equos quattuor eius, qui carne humana vescebantur, cu
 
 5 - What are the gender, number, case, and antecedent of qui?
 
--
+- 
 
 6 - What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
 
@@ -67,9 +67,7 @@ Choose two choices of syntax, word order, or diction that Hyginus makes in this 
 
 **D. Translation
 
-7. He cleaned the stable of king Augeas in one day, a greater part while Iovis was his helper, 
-
- He cleaned in one day the ox dung of King Augeas, Jove helping him for the most part. By letting in a river he washed away all the dung. 
+7. He cleaned the dung from the stable of king Augeas in one day, a greater part while Iovis was his helper; by letting in a river he washed away all the dung. 
 
 8. The bull with which Pasiphae lay he brought alive from the island of Crete to Mycenae.
 
