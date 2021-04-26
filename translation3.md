@@ -7,7 +7,8 @@ Hyginus, chapter 30, sections 7-9.
 
 9 Diomedem Thraciae regem et equos quattuor eius, qui carne humana vescebantur, cum Abdero famulo interfecit; equorum autem nomina Podargus Lampon Xanthus Dinus.
 
-A. Grammatical analysis
+**A. Grammatical analysis
+
 Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. Italicize the verb of each unit by surrounding it with asterisks.
 
 7. 
@@ -30,7 +31,7 @@ taurum cum quo Pasiphae concubuit ex Creta insula Mycenis vivum adduxit.
 
 Diomedem Thraciae regem et equos quattuor eius, qui carne humana vescebantur, cum Abdero famulo interfecit; equorum autem nomina Podargus Lampon Xanthus Dinus.
 
-B. Grammatical questions
+**B. Grammatical questions
 
 1 - In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase?
 
@@ -56,17 +57,20 @@ B. Grammatical questions
 
 -
 
-C. Literary commentary
-Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly s in 3-4 sentences. Italicize Latin words when citing them.
+**C. Literary commentary
+
+Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly in 3-4 sentences. Italicize Latin words when citing them.
 
 - k
 
 - l
 
-D. Translation
+**D. Translation
 
 7. He cleaned the stable of king Augeas in one day, a greater part while Iovis was his helper, 
 
-8. m
+ He cleaned in one day the ox dung of King Augeas, Jove helping him for the most part. By letting in a river he washed away all the dung. 
 
-9. k
+8. The bull with which Pasiphae lay he brought alive from the island of Crete to Mycenae.
+
+9. Diomedes, King of Thrace, and his four horses which fed on human flesh he killed along with the slave Abderus. The horses' names were Podargus, Lampon, Xanthus, and Dinus.
