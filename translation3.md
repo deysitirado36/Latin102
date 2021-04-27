@@ -35,7 +35,15 @@ taurum
 
 9. 
 
-Diomedem Thraciae regem et equos quattuor eius, qui carne humana vescebantur, cum Abdero famulo interfecit; equorum autem nomina Podargus Lampon Xanthus Dinus.
+Diomedem Thraciae regem et equos quattuor eius, 
+
+> qui carne humana vescebantur, 
+
+> cum Abdero famulo **Need to make dependent?
+ 
+interfecit; 
+
+**>?** equorum autem nomina Podargus Lampon Xanthus Dinus.
 
 **B. Grammatical questions
 
@@ -57,7 +65,7 @@ Diomedem Thraciae regem et equos quattuor eius, qui carne humana vescebantur, cu
 
 5 - What are the gender, number, case, and antecedent of qui?
 
-**- Masculine, singular, ablative, taurum
+- Masculine, plural, nominative, horses
 
 6 - What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
 
@@ -77,4 +85,4 @@ Choose two choices of syntax, word order, or diction that Hyginus makes in this 
 
 8. He brought the bull with whom Pasiphae lay with alive from the island in Cerete to Mycenae.
 
-9. He killed Diomedes, King of Thrace, and his four horses, which fed on human flesh, along with the slave Abderus. The horses' names were Podargus, Lampon, Xanthus, and Dinus.
+9. He killed Diomedes, King of Thrace, and his four horses, which fed on human flesh, along with the slave Abderus; the horses' names were Podargus, Lampon, Xanthus, and Dinus.
