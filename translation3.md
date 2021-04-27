@@ -37,13 +37,13 @@ taurum
 
 Diomedem Thraciae regem et equos quattuor eius, 
 
-> qui carne humana vescebantur, 
+> qui carne humana *vescebantur,*
 
 > cum Abdero famulo **Need to make dependent?
  
-interfecit; 
+*interfecit;*
 
-**>?** equorum autem nomina Podargus Lampon Xanthus Dinus.
+**>? HELP** equorum autem nomina Podargus Lampon Xanthus Dinus.
 
 **B. Grammatical questions
 
@@ -69,7 +69,7 @@ interfecit;
 
 6 - What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
 
--
+- **HELP**
 
 **C. Literary commentary
 
