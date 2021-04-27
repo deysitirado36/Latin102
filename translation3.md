@@ -77,7 +77,7 @@ Choose two choices of syntax, word order, or diction that Hyginus makes in this 
 
 - When Hyginus decided to use the relative clause *"qui carne humana vescebantur"* they enhanced the meaning of the passage's context. This is important because it shows how Hercules is a "superior" human being. He killed horses who eat humans. 
 
-- When Hyginus made *"taurum"* accusative and didn't mention Hercules as the subject also enhanced the meaning of the passage. Becuase it is implied that Hercules is the subject shows that Hercules's name doesnt need to be mentioned anymore because it would be too repetative. This shows that Hercules has done so many tasks that it is pointless to keep mentioning his name.
+- When Hyginus made *"taurum"* accusative and didn't mention Hercules as the subject also enhanced the meaning of the passage. Becuase it is implied that Hercules is the subject shows that Hercules's name doesnt need to be mentioned anymore because it would be too repetative. This shows that Hercules has done so many tasks that it is pointless to keep mentioning his name because we should already know it.
 
 **D. Translation
 
