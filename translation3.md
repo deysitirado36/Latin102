@@ -27,15 +27,23 @@ totum stercus *abluit.*
 
 taurum
 
-> cum quo Pasiphae *concubuit* **Need to make dependent?
+> cum quo Pasiphae *concubuit* **Need to make dependent? HELP
 
-> ex Creta insula Mycenis vivum **Need to make dependent?
+> ex Creta insula Mycenis vivum **Need to make dependent? HELP
 
 *adduxit.*
 
 9. 
 
-Diomedem Thraciae regem et equos quattuor eius, qui carne humana vescebantur, cum Abdero famulo interfecit; equorum autem nomina Podargus Lampon Xanthus Dinus.
+Diomedem Thraciae regem et equos quattuor eius, 
+
+> qui carne humana *vescebantur,*
+
+> cum Abdero famulo **Need to make dependent? HELP
+ 
+*interfecit;*
+
+**>? HELP** equorum autem nomina Podargus Lampon Xanthus Dinus.
 
 **B. Grammatical questions
 
@@ -57,19 +65,19 @@ Diomedem Thraciae regem et equos quattuor eius, qui carne humana vescebantur, cu
 
 5 - What are the gender, number, case, and antecedent of qui?
 
-- Masculine, singular, accusative, taurum
+- Masculine, plural, nominative, horses
 
 6 - What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
 
--
+- **HELP**
 
 **C. Literary commentary
 
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly in 3-4 sentences. Italicize Latin words when citing them.
 
-- k
+- When Hyginus decided to use the relative clause *"qui carne humana vescebantur"* they enhanced the meaning of the passage's context. This is important because it shows how Hercules is a "superior" human being. He killed horses who eat humans. 
 
-- l
+- When Hyginus made *"taurum"* accusative and didn't mention Hercules as the subject also enhanced the meaning of the passage. Becuase it is implied that Hercules is the subject shows that Hercules's name doesnt need to be mentioned anymore because it would be too repetative. This shows that Hercules has done so many tasks that it is pointless to keep mentioning his name because we should already know it.
 
 **D. Translation
 
@@ -77,4 +85,4 @@ Choose two choices of syntax, word order, or diction that Hyginus makes in this 
 
 8. He brought the bull with whom Pasiphae lay with alive from the island in Cerete to Mycenae.
 
-9. He killed Diomedes, King of Thrace, and his four horses which fed on human flesh along with the slave Abderus. The horses' names were Podargus, Lampon, Xanthus, and Dinus.
+9. He killed Diomedes, King of Thrace, and his four horses, which fed on human flesh, along with the slave Abderus; the horses' names were Podargus, Lampon, Xanthus, and Dinus.
