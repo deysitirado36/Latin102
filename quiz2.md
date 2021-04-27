@@ -1,3 +1,5 @@
+**Full credit**
+
 Verb synopses
 
 Translate indicative forms as complete sentences.
