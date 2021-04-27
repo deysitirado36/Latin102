@@ -27,9 +27,9 @@ totum stercus *abluit.*
 
 taurum
 
-> cum quo Pasiphae *concubuit* **Need to make dependent?
+> cum quo Pasiphae *concubuit* **Need to make dependent? HELP
 
-> ex Creta insula Mycenis vivum **Need to make dependent?
+> ex Creta insula Mycenis vivum **Need to make dependent? HELP
 
 *adduxit.*
 
@@ -39,7 +39,7 @@ Diomedem Thraciae regem et equos quattuor eius,
 
 > qui carne humana *vescebantur,*
 
-> cum Abdero famulo **Need to make dependent?
+> cum Abdero famulo **Need to make dependent? HELP
  
 *interfecit;*
 
@@ -75,9 +75,9 @@ Diomedem Thraciae regem et equos quattuor eius,
 
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly in 3-4 sentences. Italicize Latin words when citing them.
 
-- k
+- When Hyginus decided to use the relative clause *"qui carne humana vescebantur"* they enhanced the meaning of the passage's context. This is important because it shows how Hercules is a "superior" human being. He killed horses who eat humans. 
 
-- l
+- When Hyginus made *"taurum"* accusative and didn't mention Hercules as the subject also enhanced the meaning of the passage. Becuase it is implied that Hercules is the subject shows that Hercules's name doesnt need to be mentioned anymore because it would be too repetative. This shows that Hercules has done so many tasks that it is pointless to keep mentioning his name.
 
 **D. Translation
 
