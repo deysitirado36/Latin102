@@ -57,7 +57,7 @@ Diomedem Thraciae regem et equos quattuor eius, qui carne humana vescebantur, cu
 
 5 - What are the gender, number, case, and antecedent of qui?
 
-- Masculine, singular, accusative, taurum
+**- Masculine, singular, ablative, taurum
 
 6 - What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
 
