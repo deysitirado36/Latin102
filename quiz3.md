@@ -1,3 +1,5 @@
+**Full credit**
+
 **Dictionary skills, 1: noun-adjective pairs**
 
 1. uno die
@@ -14,7 +16,7 @@
 
 3. ceruum ferocem
 
-> cerium, cerii/i, n. "A bad species of swelling or ulcer"
+> cerium, cerii/i, n. "A bad species of swelling or ulcer"❌
 
 > ferox, ferocis "wild, bold"
 
