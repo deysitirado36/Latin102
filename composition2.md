@@ -1,5 +1,4 @@
-**Needs minor revisions**
-**Nice draft!**
+**Full credit**
 
 Your first sentence should use a negative purpose clause to say that when Deianira, the daughter of Oeneus and the wife of Hercules saw that the beautiful young girl Iole had been brought (to her house), she began to devise a plot in order not to lose her husband (or “be deprived of” her husband).
 
@@ -21,7 +20,7 @@ Ea suum famulum misit
 
 Your third sentence should say that Hercules put the garment on and it immediately burst into flames.
 
-> Indutus ab Hercule
+> Vestis indutus ab Hercule
 
 statim flammabat.
 
@@ -35,6 +34,6 @@ in mare.
 
 Your last sentence should express that it is reported (or said) that Hercules rose to immortality, but Deianira killed herself on account of this deed.
 
-Dicitur Herculem ad immortalitatam estortum esse,
+Dicitur Herculem ad immortalitatam ortum esse,
 
 > Deianira se interfecit.
