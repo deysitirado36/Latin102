@@ -27,11 +27,9 @@ totum stercus *abluit.*
 
 taurum
 
-> cum quo Pasiphae *concubuit* **Need to make dependent? HELP
+> cum quo Pasiphae *concubuit*
 
-> ex Creta insula Mycenis vivum **Need to make dependent? HELP
-
-*adduxit.*
+ex Creta insula Mycenis vivum *adduxit.*
 
 9. 
 
@@ -39,11 +37,9 @@ Diomedem Thraciae regem et equos quattuor eius,
 
 > qui carne humana *vescebantur,*
 
-> cum Abdero famulo **Need to make dependent? HELP
- 
-*interfecit;*
+cum Abdero famulo *interfecit;*
 
-**>? HELP** equorum autem nomina Podargus Lampon Xanthus Dinus.
+equorum autem nomina Podargus Lampon Xanthus Dinus.
 
 **B. Grammatical questions
 
@@ -69,7 +65,7 @@ Diomedem Thraciae regem et equos quattuor eius,
 
 6 - What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
 
-- **HELP**
+- The invisible erant.
 
 **C. Literary commentary
 
