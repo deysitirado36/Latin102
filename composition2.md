@@ -1,6 +1,3 @@
-**Needs minor revisions**
-**Nice draft!**
-
 Your first sentence should use a negative purpose clause to say that when Deianira, the daughter of Oeneus and the wife of Hercules saw that the beautiful young girl Iole had been brought (to her house), she began to devise a plot in order not to lose her husband (or “be deprived of” her husband).
 
 > Cum Deianira, filia Oenei et uxor Herculi vidisset 
