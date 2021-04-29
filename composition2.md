@@ -9,7 +9,7 @@ Your first sentence should use a negative purpose clause to say that when Deiani
 
 coepit machinari
 
-> ne privaretur suus❌**What does this agree with?** marito.
+> ne privaretur suus **SUA** ❌**What does this agree with?** marito.
 
 Your second sentence should express that she sent her servant to bring to Hercules a garment dipped in the blood of the centaur Nessus, which she thought was a love potion.
 
@@ -29,7 +29,7 @@ Your fourth sentence should express that Hercules threw the slave, whom Deianira
 
 Hercules threw the slave,
 
-> quem Deianira misit ❌**Need a purpose experssion** reddidisse vestimentum,
+> quem Deianira misit ad vestem ferendum,
 
 in mare.
 
