@@ -9,21 +9,21 @@ Your first sentence should use a negative purpose clause to say that when Deiani
 
 coepit machinari
 
-> ne privaretur suus **SUA** ❌**What does this agree with?** marito.
+> ne privaretur suo marito.
 
 Your second sentence should express that she sent her servant to bring to Hercules a garment dipped in the blood of the centaur Nessus, which she thought was a love potion.
 
-Ea suus famulum misit
+Ea suum famulum misit
 
-> ad adductndum❌ **Check form** vestem tinctus est❌**Just use the particle, not a clause** sanguine centauri Nessi Herculi,
+> ad adducendum vestem tinctum sanguine centauri Nessi Herculi,
 
->> quem congitabat❌  amorem potionem. **Let's check some vocab options for this phrase>
+>> quem putabat philtrum esse.
 
 Your third sentence should say that Hercules put the garment on and it immediately burst into flames.
 
-> Hercules induentem❌
+> Indutus ab Hercule
 
-statim flammbat.❌ **Careful with the form**
+statim flammabat.
 
 Your fourth sentence should express that Hercules threw the slave, whom Deianira had sent to bring the garment back, into the sea.
 
@@ -35,6 +35,6 @@ in mare.
 
 Your last sentence should express that it is reported (or said) that Hercules rose to immortality, but Deianira killed herself on account of this deed.
 
-Dictus est quia❌ Herculem estortum esse,
+Dicitur Herculem ad immortalitatam estortum esse,
 
-> Deianira interfecit suam❌.
+> Deianira se interfecit.
