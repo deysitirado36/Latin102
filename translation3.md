@@ -77,7 +77,7 @@ Choose two choices of syntax, word order, or diction that Hyginus makes in this 
 
 **D. Translation
 
-7. He cleaned the dung from the stable of king Augeas in one day, a greater part while Iovis was his helper; by letting in a river he washed away all the dung. 
+7. He cleaned the dung from the stable of King Augeas in one day, a greater part while Juppiter was helping; by letting in a river he washed away all the dung. 
 
 8. He brought the bull with whom Pasiphae lay with alive from the island in Cerete to Mycenae.
 
