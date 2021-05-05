@@ -15,7 +15,9 @@ Place each verbal idea (clause, indirect statement, participial expression) on a
 
 Augeae regis stercus bobile uno die *purgavit*,
 
-maiorem partem Iove adiutore;
+maiorem partem 
+
+> Iove adiutore;
 
 > flumine *admisso*
 
