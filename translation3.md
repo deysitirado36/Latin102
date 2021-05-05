@@ -15,9 +15,7 @@ Place each verbal idea (clause, indirect statement, participial expression) on a
 
 Augeae regis stercus bobile uno die *purgavit*,
 
-maiorem partem 
-
-> Iove adiutore;
+maiorem partem Iove adiutore;
 
 > flumine *admisso*
 
@@ -65,7 +63,7 @@ equorum autem nomina Podargus Lampon Xanthus Dinus.
 
 6 - What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
 
-- The invisible erant.
+- No visible verb. The invisible erant. 
 
 **C. Literary commentary
 
