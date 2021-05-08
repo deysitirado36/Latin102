@@ -1,3 +1,5 @@
+**Needs one minor revision**
+
 Passage to analyze
 Hyginus, chapter 30, sections 7-9.
 
@@ -53,7 +55,7 @@ equorum autem nomina Podargus Lampon Xanthus Dinus.
 
 3 - Identify the form of the adjective maiorem (gender, case, number, degree).
 
-- Masculine, accusative, singular, comparative
+- Masculine, accusative, singular, comparative ❌ **The form *maiorem* could be masculine, but what word does it modify in this sentence?**
 
 4 - Explain the construction of the verbal unit flumine admisso.
 
